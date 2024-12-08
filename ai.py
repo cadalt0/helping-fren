@@ -3,7 +3,7 @@ import requests
 import json
 
 # Configure Google Generative AI
-genai.configure(api_key="AIzaSyAENWtd9ouIs2rKrcA3ZjSjCDO0Xr-8BjY")
+genai.configure(api_key=key")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Store user conversation history and transaction-related details
