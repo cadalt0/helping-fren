@@ -3,7 +3,7 @@ import importlib.util
 import os
 
 # Replace 'YOUR_API_KEY' with your bot's API key
-API_KEY = '8170472328:AAEWjgQBQ04jwwlbmwU-JH7wDz0qXunACww'
+API_KEY = 'token'
 
 # Initialize the bot
 bot = telebot.TeleBot(API_KEY)
